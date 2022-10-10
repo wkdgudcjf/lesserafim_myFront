@@ -1,0 +1,58 @@
+{
+    "msg1": "You must log in to continue.",
+    "msg2": "Congraturations! \n Your Digital Souvenir is created. \n Go to My Page to view.",
+    "msg3": "This item is out of stock. \n Please create a DIGITAL SOUVENIR with another visual card.",
+    "msg4": "Please select a text card and auditory card first.",
+    "msg5": "To create a DIGITAL SOUVENIR, you have to allow WEVERSE COMPANY to collect and use your personal information.",
+    "msg6": "Your log-in has expired. \n Please log in again to continue.",
+    "msg7": "You have already logged in another session. \n The previous session will be signed out.",
+    "msg8": {
+        "1" : {
+            "title":"Purpose of collecting and using personal data",
+            "content":"To record the details of event prize (Digital Souvenirs) to event participants"
+        },
+        "2" : {
+            "title":"Personal data collected and used",
+            "content":"Weverse Account user verification information"
+        },
+        "3" : {
+            "title":"Duration of keeping and usage personal information",
+            "content":"Personal information will be stored for 1 year after the event ends"
+        },
+        "ext":"※ You have the right to refuse consent to the collection and usage of your personal information.\nYou may be restricted from using this service."
+    },
+    "msg9":"We are unable to process your request because there are many users. \n please try again.",
+    "msg10":"You already created a digital souvenir of this member.",
+    "msg11": {
+        "1" : {
+            "title":"Consent to the Collection and Use of Personal Information",
+            "content1":"- Agent of collection :",
+            "content2":"Weverse Company Inc.",
+            "content3":"- Purpose of collection and use :",
+            "content4":"To select winners and execute the event",
+            "content5":"- Items used :",
+            "content6":"Weverse account user verification information, name, gender, date of birth",
+            "content7":"- Period of retention and use :",
+            "content8":"90 days after the event’s completion"
+        },
+        "ext": "* You have the right to deny consent, however you may be restricted from using the above services should you do so."
+    },
+    "msg12": {
+        "1" : {
+            "title":"Consent to Providing Personal Information to a Third Party",
+            "content1":"- Recipient :",
+            "content2":"SOURCE MUSIC Co.Ltd.",
+            "content3":"- Purpose of Providing Information :",
+            "content4":"To select winners and execute the event",
+            "content5":"- Information Provided :",
+            "content6":"Weverse account user verification information, name, gender, date of birth",
+            "content7":"- Period of retention and use :",
+            "content8":"90 days after the event’s completion"
+        },
+        "ext": "* You have the right to deny consent, however you may be restricted from using the above services should you do so."
+    },
+    "msg13": "Your application has been successfully submitted.",
+    "msg14": "Your application was not submitted. Please try again.",
+    "button1": "OK",
+    "button2": "Login"
+}

@@ -1,0 +1,92 @@
+{
+  "input_quiz_q1": "/res/live/live_q1_en.png",
+  "input_quiz_q2": "/res/live/live_q2_en.png",
+  "live_title": "Live Streaming Event Application",
+  "live_title2": "<Phase 2. Join Missions and Events>\n",
+  "live_title3" : "You have successfully applied to the Live Streaming Event.",
+  "live_title4" : "We're sorry to inform you that you have not won the ticket to the ‘Special Online Event’.",
+  "live_title5" : "Congratulations! You have won the ticket to the ‘Special Online Event’.",
+  "live_title6" : "‘Special Online Event’ will begin shortly. Please check the notice for more information.",
+  "live_title7" : "‘Special Online Event’",
+  "live_title8" : "Application for the ‘Special Online Event’ has been closed.",
+  "live_enter" : "Enter",
+  "live_notice_title" : "[Winner Information]",
+  "live_notice_content" : "1. Before this event, an ‘Enter’ button will appear on le-sserafim.com. Click this button to join the special online event chat room.\n\n2. You may only join using the email (Weverse account) that you used to enter the event. Please set your name to that email address (Weverse account) during the Zoom meeting. If your email (Weverse account) cannot be verified, you will not be able to join. \n\n3. Enter your email address (Weverse account) that you used to apply for this event and click the “Enter” button and you will be directed to a page where you can check your mic and camera. Please click the “Join” button to enter the Zoom waiting room.\n\n4. We will verify your identity before you enter the online event chat room. We will be checking the Weverse account that you submitted upon entering the event, so please make sure to join using the same Weverse account. If we cannot verify your Weverse account, you will not be able to join.\n\n5. We recommend using a PC when logging in to Zoom so that you can participate in the event without issues. Please note that you may need to use a separate browser.  If you log in to Zoom or join the event using a smartphone instead of a PC, please note that the connection may be unstable. (If you are participating via mobile, make sure you have downloaded ZOOM APP for seamless participation.)\n\n6. The Zoom chat room for the event will open 1 hour in advance. Please enter the Zoom chat room and stand by up to 20 minutes before the announced event start time. If you do not enter the chat room by the event start time, you will not be able to join the event. If you leave the chat room (due to technical difficulties, unstable network, etc.), you will not be able to re-enter. Please be aware that you will not receive a reminder notification before or after the event.\n\n7. This event is subject to change or cancellation without prior notice according to the situation of that day.\n\n",
+  "live_msg": "Special Online Event’ Raffle Application 📝",
+  "input_title": "Basic Information",
+  "input_quiz_title": "LE SSERAFIM Quiz",
+  "input_name": "Please enter your name.",
+  "input_email": "email(Weverse account)",
+  "input_placeholder1": "Last name",
+  "input_placeholder2": "First name",
+  "input_birth": "Please enter your date of birth.(YYYYMMDD)",
+  "input_sex": "Please select your gender.",
+  "input_man": "Male",
+  "input_girl": "Female",
+  "input_etc": "Other",    
+  "input_national": "Please select your region or country.",
+  "input_button": "Apply",
+  "input_button2": "OK",
+  "live_privacy": "Consent to the Collection and Use of Personal Information",
+  "live_privacy2": "Consent to Providing Personal Information to a Third Party",
+  "land2_desc": "<Phase 1. Create My Digital Souvenir> is now closed.\nPlease stay tuned for <Phase 2. Join Missions and Events>!",
+    "land3_desc1": "Visual + Text + Auditory, \nMix and Match in Your Way",
+    "land3_desc2": "Visuals, text, and auditory cards. Mix and match things your way.",
+    "land3_desc3": "*The following are examples only.",
+    "land3_etc_VISUAL": "Artist's Still Images, Moving Images",
+    "land3_etc_TEXT": "Artist’s Autograph, Special Handwritten Messages",
+    "land3_etc_AUDITORY": "Artist’s Voice Messages,\nIntro and Highlight from Debut Track",
+    "about1_desc1": "Capture the debut moments of LE SSERAFIM in a digital souvenir.",
+    "about1_desc2": "We introduce LE SSERAFIM, the first girl group to debut under HYBE.\nTo celebrate this moment, HYBE’s first digital souvenir project is now open.",
+    "about1_desc3": "The First Moment of LE SSERAFIM project \ncelebrates LE SSERAFIM's highly anticipated debut \n as well as the moment that fans meet the group for the first time.\n\n Combine the very first appearances, messages, and voices of\n the six members of LE SSERAFIM as you would like,\n and create your own digital souvenir to keep forever.\n\nCome along with LE SSERAFIM on the HYBE digital souvenir journey!",
+    "about2_roadmap":"Project Roadmap",
+
+    "about_warning": {
+      "title": "[NOTICE]",
+      "content": "The First Moment of LE SSERAFIM project’s \"Create Your Digital Souvenir\" service will be available until December 31, 2022.\nYou will be able to use additional minting services offered by HYBE and Dunamu through an online platform scheduled to launch in the second half of the year. Once minted, digital souvenirs belong to you permanently.\nAspects of some of the pre-created digital souvenirs may change when using the minting service and a fee may be incurred."
+    },
+    "about2_phase1": {        
+      "title": "Create Your Digital Souvenir",
+      "desc1": "Get your first look at LE SSERAFIM with a digital souvenir\n\n",
+      "desc2": "Anyone can create up to\nsix free digital souvenirs—one per member—\non a first-come, first-served basis."
+    },
+    "about2_phase2": {
+      "title": "Join Missions and Events",
+      "desc1": "Learn more about LE SSERAFIM through various events\n\n",
+      "desc2": "If you’re a fan of LE SSERAFIM,\nwe have lots of events for you to participate in,\neven if you didn’t get to create any digital souvenirs."
+    },
+    "about2_phase3": {
+      "title": "Mint Your Digital Souvenir",
+      "desc1": "Relive meeting LE SSERAFIM by minting your souvenir\n\n",
+      "desc2": "You will be able to permanently claim your digital souvenirs\nthrough minting services on a new platform\nto be provided by HYBE and Dunamu."
+    },    
+    "getting1_desc1": {
+      "1": "<Phase 1. Create My Digital Souvenir> is now closed.\nPlease stay tuned for <Phase 2. Join Missions and Events>!",
+      "2": "Click on an image of a LE SSERAFIM member."
+    },
+    "getting2_desc1": {
+      "1": "There are 20 different types of visual cards (1000 copies available per type).",
+      "2": "Choose the visual card you like best",
+      "3": "Visual - Still Images",
+      "4": "Visual - Moving Images"
+    },
+    "getting3_desc1": {
+      "1": "There are six kinds of text cards (in your choice of black or white) and seven kinds of auditory cards.",
+      "2": "Select one each of a text and auditory card.",
+      "3": "I agree to the collection and use of my personal information.",
+      "4": "Create my digital souvenir"
+    },
+    "getting3_desc2": {
+      "1": "About Digital Souvenirs",
+      "2": "The First Moment of LE SSERAFIM\n\nCreate your digital souvenir capturing the debut moments of LE SSERAFIM for free.\n\nMix and match three cards to create your own unique digital souvenir.\nChoose your favorite visual, text, and auditory cards to see pictures, special messages, and personal voice recordings.\n\nWhen you create your digital souvenir, you can choose from:\n﹒Visual cards (10 still images, 10 moving images)\n﹒Text cards (1 autograph, 5 special handwritten messages)\n﹒Auditory cards (One intro from the debut track, One highlight from the debut track, Five special voice messages)"
+    },   
+    "mypage1": {
+      "1": ["Check the LE SSERAFIM ","Digital Souvenirs"," you’ve created here."],
+      "2": "No Digital \nSouvenir Created"
+    },
+    "mypage2": "My choices",
+    "footer":{
+        "1":"Privacy Policy",
+        "2":"Cookie Policy"
+    }
+}

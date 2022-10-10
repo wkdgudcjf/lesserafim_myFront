@@ -1,0 +1,30 @@
+version: 0.2
+
+run-as: benx
+
+env:
+  variables:
+    HOME: /home/benx
+    SERVICE_NAME: lesserafim_front
+    SERVICE_S3_BUCKET: dev.le-sserafim.com
+    BRANCH: main
+    DISTRIBUTION_ID: E3PN2X335G1IPD
+    PROFILE: dev
+  parameter-store:
+    GITHUB_TOKEN: "/CodeBuild/GITHUB_TOKEN"
+
+phases:
+  pre_build:
+    commands:
+      - git clone -b ${BRANCH} https://${GITHUB_TOKEN}@github.com/weverse-partner/${SERVICE_NAME}.git
+      - cd ${SERVICE_NAME}
+      - npm install
+        # - npm run test
+  build:
+    commands:
+      - npm run build:${PROFILE}
+      - aws s3 sync build s3://${SERVICE_S3_BUCKET} --delete --exclude "special/*"
+  post_build:
+    commands:
+      - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths "/*"
+

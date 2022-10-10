@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="30" viewBox="0 0 65 30">
+    <g data-name="그룹 7145" transform="translate(-1788.942 -43)">
+        <text transform="translate(1818.942 64)" style="fill:#111;font-size:15px;font-family:NotoSansCJKkr-Medium,Noto Sans CJK KR;font-weight:500"><tspan x="-15.458" y="0">LIVE</tspan></text>
+        <circle data-name="타원 203" cx="1.5" cy="1.5" r="1.5" transform="translate(1835.942 50)" style="fill:red"/>
+        <g data-name="사각형 6886" style="stroke:#000;stroke-width:2px;fill:none">
+            <path style="stroke:none" d="M0 0h65v30H0z" transform="translate(1788.942 43)"/>
+            <path style="fill:none" d="M1 1h63v28H1z" transform="translate(1788.942 43)"/>
+        </g>
+    </g>
+</svg>

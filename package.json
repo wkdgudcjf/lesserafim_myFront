@@ -1,0 +1,59 @@
+{
+  "name": "lesserafim_front",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@zoomus/websdk": "^2.5.0",
+    "axios": "^0.26.1",
+    "i18next": "^21.6.14",
+    "i18next-browser-languagedetector": "^6.1.3",
+    "nanoid": "^3.3.1",
+    "react": "^17.0.2",
+    "react-cookie": "^4.1.1",
+    "react-dom": "^17.0.2",
+    "react-i18next": "^11.15.7",
+    "react-loader-spinner": "^6.0.0-0",
+    "react-modal": "^3.14.4",
+    "react-player": "^2.10.0",
+    "react-query": "^3.34.19",
+    "react-responsive": "^9.0.0-beta.6",
+    "react-router-dom": "^6.2.2",
+    "react-scripts": "5.0.0",
+    "react-transition-group": "^4.4.2",
+    "recoil": "^0.6.1",
+    "styled-components": "^5.3.3"
+  },
+  "scripts": {
+    "start:local": "cp ./.subs.env.local ./.env && react-scripts start",
+    "start:dev": "cp ./.subs.env.dev ./.env && react-scripts start",
+    "start:prod": "cp ./.subs.env.prod ./.env && react-scripts start",
+    "start:beta": "cp ./.subs.env.beta ./.env && react-scripts start",
+    "build:local": "cp ./.subs.env.local ./.env && react-scripts build",
+    "build:dev": "cp ./.subs.env.dev ./.env && react-scripts build",
+    "build:prod": "cp ./.subs.env.prod ./.env && react-scripts build",
+    "build:beta": "cp ./.subs.env.beta ./.env && react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@testing-library/react": "^12.1.4"
+  }
+}
